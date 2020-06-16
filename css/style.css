@@ -27,7 +27,7 @@
     }
 }
   /* Medium devices - Tablet  */
-  @media all and (min-width: 600px) and (max-width: 991px) {
+@media all and (min-width: 600px) and (max-width: 991px) {
     #textoPantalla{
         font-size: 50px;
     }
@@ -40,7 +40,7 @@
 }
   
   /* Small devices  */
-  @media all and (max-width: 600px) {
+@media all and (max-width: 600px) {
     #textoPantalla{
         font-size: 30px;
         font-family: 'Lexend Tera', sans-serif;
